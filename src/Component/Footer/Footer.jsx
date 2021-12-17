@@ -4,7 +4,7 @@ import "./Footer.css";
 function Footer() {
     return (
         <footer>
-            © Tesla Clone made by Saroj
+            © Quiz App made by Saurabh
         </footer>
     )
 }
